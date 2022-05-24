@@ -1,7 +1,7 @@
 <h1 align="center">hello 👋, i am shubham kumar</h1>
 <h3 align="center">just another tinkerer</h3>
 
-- 🌱 I’m currently learning **Flutter and Kubernetes**
+- 🌱 I’m currently learning **JIRA/Confluence and Kubernetes**
 
 - 💬 Ask me about **Java Development**
 
